@@ -20,4 +20,5 @@ This project showcases a **3D model** that animates in response to user **scroll
 - `<model-viewer>` Web Component
 
 📸 Preview
+
 ![github_preview_2](https://github.com/user-attachments/assets/15fce70c-6524-4505-ba14-a4d68d6efb97)
